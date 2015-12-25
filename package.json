@@ -1,0 +1,24 @@
+{
+  "name": "exceptions",
+  "version": "0.0.0",
+  "description": "Predefined exception classes",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:imdoroshenko/exceptions.git"
+  },
+  "keywords": [
+    "multitone",
+    "service-provider"
+  ],
+  "devDependencies": {
+    "mocha": "^2.3.2",
+    "should": "~1.2.2",
+    "chai": "*"
+  },
+  "author": "Ivan Doroshenko <i.m.doroshenko@gmail.com>"
+}
