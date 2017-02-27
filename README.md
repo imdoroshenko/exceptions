@@ -6,7 +6,7 @@ Predefined exception classes
 Installation
 ------------
 ```shell
-npm install git@github.com:imdoroshenko/exceptions.git
+npm install git://github.com/imdoroshenko/exceptions.git --save
 ```
 
 Tests
