@@ -1,6 +1,6 @@
 {
   "name": "exceptions",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Predefined exception classes",
   "main": "index.js",
   "private": true,
